@@ -52,3 +52,6 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+[Algolia monitor]{https://dashboard.algolia.com/apps/S8MOZLKRA9/events/health?from=2024-02-06&to=2024-02-12}
+
